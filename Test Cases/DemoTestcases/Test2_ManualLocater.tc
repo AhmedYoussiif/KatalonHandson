@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is the first test case of the automation assigments</description>
+   <name>Test2_ManualLocater</name>
+   <tag>@sanity</tag>
+   <comment></comment>
+   <testCaseGuid>2d65fa89-0338-4714-abb3-92e91c1ecec4</testCaseGuid>
+</TestCaseEntity>
